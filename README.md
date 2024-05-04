@@ -1,14 +1,8 @@
-<style>
-h1 {
-background: #00FF00;
+
+<h1 align="left" background: #00FF00;
 background: linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
 -webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-  
-}
-  
-</style>
-<h1 align="left" color="">Huỳnh Văn Thành (Diner)</h1>
+-webkit-text-fill-color: transparent;>Huỳnh Văn Thành (Diner)</h1>
 
 ###
 
