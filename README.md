@@ -1,4 +1,14 @@
-<h1 align="left">Huỳnh Văn Thành (Diner)</h1>
+<style>
+h1 {
+background: #00FF00;
+background: linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  
+}
+  
+</style>
+<h1 align="left" color="">Huỳnh Văn Thành (Diner)</h1>
 
 ###
 
@@ -42,10 +52,10 @@
 
 <div align="left">
   <a href="https://www.facebook.com/programmer.diner?locale=vi_VN">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="mailto:thanhpro0922@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://stackoverflow.com/users/22944992/diner"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
+  <a href="https://www.hackerrank.com/profile/thanhpro0922">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
 ###
