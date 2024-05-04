@@ -1,5 +1,5 @@
 
-<h1 align="left" style="color: #2BF8D6">Huỳnh Văn Thành (Diner)</h1>
+<h1 align="left">Huỳnh Văn Thành (Diner)</h1>
 
 ###
 
