@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Diner and I come from VietNam</p>
+<p align="left">My name is Diner, I come from VietNam</p>
 
 ###
 
